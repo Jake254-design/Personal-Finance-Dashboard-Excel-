@@ -24,8 +24,7 @@ Individuals often lack a clear understanding of their spending behavior and cash
 
 ### Raw (Messy) Data
 *Screenshot of the original uncleaned M-Pesa statement showing inconsistencies and formatting issues.*  
-![Raw Data Preview](./images/messy-data.png)
-
+![Messy Mpesa Statement Spreadsheet](./Messy%20Mpesa%20Statement%20Spreadsheet.png)
 ### Cleaned Data
 *Screenshot of the cleaned, well-structured dataset ready for analysis.*  
 ![Clean Data Preview](./images/clean-data.png)
