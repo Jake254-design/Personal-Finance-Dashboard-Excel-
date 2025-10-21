@@ -30,7 +30,8 @@ Individuals often lack a clear understanding of their spending behavior and cash
 ![Clean M-Pesa Statement Spreadsheet](./Clean%20Mpesa%20Statement%20Spreadsheet.png)
 ### Final Dashboard
 *Screenshot of the interactive Excel dashboard summarizing income, expenses, and spending insights.*  
-![Dashboard Preview](./images/dashboard.png)
+![M-Pesa Dashboard](./MY%20UPDATED%20MPESA%20STATEMENT%20DASHBOARD.png)  
+*Final interactive Excel dashboard visualizing income, expenses, and cash flow insights.*
 
 
 ##  Results & Insights
