@@ -27,8 +27,7 @@ Individuals often lack a clear understanding of their spending behavior and cash
 ![Messy Mpesa Statement Spreadsheet](./Messy%20Mpesa%20Statement%20Spreadsheet.png)
 ### Cleaned Data
 *Screenshot of the cleaned, well-structured dataset ready for analysis.*  
-![Clean Data Preview](./images/clean-data.png)
-
+![Clean M-Pesa Statement Spreadsheet](./Clean%20Mpesa%20Statement%20Spreadsheet.png)
 ### Final Dashboard
 *Screenshot of the interactive Excel dashboard summarizing income, expenses, and spending insights.*  
 ![Dashboard Preview](./images/dashboard.png)
