@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data analytics process using an M-Pesa statement to develop a **Personal Finance Dashboard** in Excel. The goal was to transform unstructured financial transactions into clean, analysis-ready data and uncover insights into spending patterns, income trends, and overall cash flow. The project showcases advanced Excel skills, including Power Query for cleaning and visualization design for storytelling.
 
 ## Business Problem
-Individuals often lack a clear understanding of their spending behavior and cash flow due to scattered or unstructured transaction data. The challenge was to convert a raw M-Pesa statement—filled with inconsistencies—into a structured dataset that enables effective financial tracking and decision-making.
+Individuals often lack a clear understanding of their spending behavior and cash flow due to scattered or unstructured transaction data. The challenge was to convert a raw M-Pesa statement filled with inconsistencies into a structured dataset that enables effective financial tracking and decision-making.
 
 ## Methodology
 1. **Data Import:** Loaded the raw M-Pesa statement (CSV format) into Excel.  
@@ -30,8 +30,7 @@ Individuals often lack a clear understanding of their spending behavior and cash
 ![Clean M-Pesa Statement Spreadsheet](./Clean%20Mpesa%20Statement%20Spreadsheet.png)
 ### Final Dashboard
 *Screenshot of the interactive Excel dashboard summarizing income, expenses, and spending insights.*  
-![M-Pesa Dashboard](./MY%20UPDATED%20MPESA%20STATEMENT%20DASHBOARD.png)  
-*Final interactive Excel dashboard visualizing income, expenses, and cash flow insights.*
+![M-Pesa Dashboard](./MY%20UPDATED%20MPESA%20STATEMENT%20DASHBOARD.png) 
 
 
 ##  Results & Insights
@@ -55,4 +54,4 @@ Individuals often lack a clear understanding of their spending behavior and cash
 
 ##  Tools Used
 - **Microsoft Excel** – Power Query, Pivot Tables, Dashboard Design  
-- **Data Source:** M-Pesa Statement (anonymized for privacy)
+- **Data Source:** M-Pesa Statement(anonymized cor privacy)
